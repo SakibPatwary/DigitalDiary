@@ -1,0 +1,8 @@
+C:\Users\shaki\Downloads\Compressed\DigDiary-master\DigDiary\obj\Debug\DigDiary.csprojAssemblyReference.cache
+C:\Users\shaki\Downloads\Compressed\DigDiary-master\DigDiary\obj\Debug\DigDiary.Presentation_Layer.CreateEvent.resources
+C:\Users\shaki\Downloads\Compressed\DigDiary-master\DigDiary\obj\Debug\DigDiary.Presentation_Layer.EventDetails.resources
+C:\Users\shaki\Downloads\Compressed\DigDiary-master\DigDiary\obj\Debug\DigDiary.Presentation_Layer.Events.resources
+C:\Users\shaki\Downloads\Compressed\DigDiary-master\DigDiary\obj\Debug\DigDiary.Presentation_Layer.Login.resources
+C:\Users\shaki\Downloads\Compressed\DigDiary-master\DigDiary\obj\Debug\DigDiary.Presentation_Layer.ModifyEvent.resources
+C:\Users\shaki\Downloads\Compressed\DigDiary-master\DigDiary\obj\Debug\DigDiary.Properties.Resources.resources
+C:\Users\shaki\Downloads\Compressed\DigDiary-master\DigDiary\obj\Debug\DigDiary.csproj.GenerateResource.cache
